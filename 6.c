@@ -198,6 +198,5 @@ int main() {
         free(A[i]);
     }
     free(A);
-    free(A);
     return 0;
 }
